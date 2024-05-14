@@ -1,0 +1,15 @@
+/Users/bugar-meszaroskrisztina/Documents/Codecool/oop/Code.cool.Gym/Code.cool.Gym/bin/Debug/net6.0/Code.cool.Gym
+/Users/bugar-meszaroskrisztina/Documents/Codecool/oop/Code.cool.Gym/Code.cool.Gym/bin/Debug/net6.0/Code.cool.Gym.deps.json
+/Users/bugar-meszaroskrisztina/Documents/Codecool/oop/Code.cool.Gym/Code.cool.Gym/bin/Debug/net6.0/Code.cool.Gym.runtimeconfig.json
+/Users/bugar-meszaroskrisztina/Documents/Codecool/oop/Code.cool.Gym/Code.cool.Gym/bin/Debug/net6.0/Code.cool.Gym.dll
+/Users/bugar-meszaroskrisztina/Documents/Codecool/oop/Code.cool.Gym/Code.cool.Gym/bin/Debug/net6.0/Code.cool.Gym.pdb
+/Users/bugar-meszaroskrisztina/Documents/Codecool/oop/Code.cool.Gym/Code.cool.Gym/obj/Debug/net6.0/Code.cool.Gym.csproj.AssemblyReference.cache
+/Users/bugar-meszaroskrisztina/Documents/Codecool/oop/Code.cool.Gym/Code.cool.Gym/obj/Debug/net6.0/Code.cool.Gym.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bugar-meszaroskrisztina/Documents/Codecool/oop/Code.cool.Gym/Code.cool.Gym/obj/Debug/net6.0/Code.cool.Gym.AssemblyInfoInputs.cache
+/Users/bugar-meszaroskrisztina/Documents/Codecool/oop/Code.cool.Gym/Code.cool.Gym/obj/Debug/net6.0/Code.cool.Gym.AssemblyInfo.cs
+/Users/bugar-meszaroskrisztina/Documents/Codecool/oop/Code.cool.Gym/Code.cool.Gym/obj/Debug/net6.0/Code.cool.Gym.csproj.CoreCompileInputs.cache
+/Users/bugar-meszaroskrisztina/Documents/Codecool/oop/Code.cool.Gym/Code.cool.Gym/obj/Debug/net6.0/Code.cool.Gym.dll
+/Users/bugar-meszaroskrisztina/Documents/Codecool/oop/Code.cool.Gym/Code.cool.Gym/obj/Debug/net6.0/refint/Code.cool.Gym.dll
+/Users/bugar-meszaroskrisztina/Documents/Codecool/oop/Code.cool.Gym/Code.cool.Gym/obj/Debug/net6.0/Code.cool.Gym.pdb
+/Users/bugar-meszaroskrisztina/Documents/Codecool/oop/Code.cool.Gym/Code.cool.Gym/obj/Debug/net6.0/Code.cool.Gym.genruntimeconfig.cache
+/Users/bugar-meszaroskrisztina/Documents/Codecool/oop/Code.cool.Gym/Code.cool.Gym/obj/Debug/net6.0/ref/Code.cool.Gym.dll
