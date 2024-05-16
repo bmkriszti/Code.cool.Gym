@@ -8,24 +8,32 @@
     "net6.0": []
   },
   "packageFolders": {
-    "/Users/bugar-meszaroskrisztina/.nuget/packages/": {}
+    "C:\\Users\\Akos\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/bugar-meszaroskrisztina/Documents/Codecool/oop/Code.cool.Gym/Code.cool.Gym/Code.cool.Gym.csproj",
+      "projectUniqueName": "C:\\Users\\Akos\\Desktop\\codecool\\OOP\\3_SoloWeek\\Code.cool.Gym\\Code.cool.Gym\\Code.cool.Gym.csproj",
       "projectName": "Code.cool.Gym",
-      "projectPath": "/Users/bugar-meszaroskrisztina/Documents/Codecool/oop/Code.cool.Gym/Code.cool.Gym/Code.cool.Gym.csproj",
-      "packagesPath": "/Users/bugar-meszaroskrisztina/.nuget/packages/",
-      "outputPath": "/Users/bugar-meszaroskrisztina/Documents/Codecool/oop/Code.cool.Gym/Code.cool.Gym/obj/",
+      "projectPath": "C:\\Users\\Akos\\Desktop\\codecool\\OOP\\3_SoloWeek\\Code.cool.Gym\\Code.cool.Gym\\Code.cool.Gym.csproj",
+      "packagesPath": "C:\\Users\\Akos\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Akos\\Desktop\\codecool\\OOP\\3_SoloWeek\\Code.cool.Gym\\Code.cool.Gym\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "/Users/bugar-meszaroskrisztina/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\Akos\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -59,7 +67,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.421/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.421\\RuntimeIdentifierGraph.json"
       }
     }
   }
